@@ -1,0 +1,45 @@
+INTRODUCTION TO PROGRAMMING
+Software
+    - OS
+    - Application Software
+Programming languages
+    -Procedural languages
+    - Object oriented languages
+                |
+    - Scripting languages/Interpreted languages
+
+    INTERNET PROGRAMMING
+    Network -  Interconnection of computers for communication and resource sharing
+    Intranet 
+    Extranet
+    Internet
+    - Internet - 
+    * Browser
+    * Internet architecture
+                                    INTERNET PROGRAMMING    
+                                            |
+FRONT END DEVELOPMENT(BROWSER)                                       BACKEND DEVELOPMENT(SERVER)
+        HTML                                                                Python
+                                                                                |
+        CSS                                                             (DJango,Flask)
+        JAVASCRIPT/TYPESCRIPT                                               C#/F#/VB.NET
+                                                                                |
+(Angular, React, Vue,Bootstra[])                                              (ASP.NET)
+                                                                                PHP
+                                                                                |
+                                                                                (Laravel,)
+                                                                                JAVA
+                                                                                RUBY
+                                                                                SWIFT/
+                                    KENET
+                                PROGRAMMING
+                                Compilers/Interpreters(Scripting languages)
+                                www.google.com / ip address/ MAC ADDRESS /TOR(Dark web)
+                                www.youtube.com (Protocols - HTTP/HTTPS/FTP/)
+                                COM/org/ac .ke
+                        www.tukenya.ac.ke
+                                WWW3 -
+                                EDITORS
+                                NOTEPAD ++
+                                SUBLIME TEXT
+                                Visual studio code
